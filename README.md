@@ -1,3 +1,14 @@
+## Introduction
+Welcome to the "Awesome SGX and TEE in Blockchain Resources" repository! This repository is a curated collection of valuable resources related to Intel Software Guard Extensions (SGX) and Trusted Execution Environments (TEE) in the context of blockchain technology.
+SGX and TEE are technologies that provide secure execution environments for sensitive computations within a blockchain network. They enable the protection of confidential data and the execution of trusted code, enhancing the security and privacy of blockchain applications.
+
+In this repository, you will find a wide range of resources, including research papers, articles, tutorials, libraries, and projects focused on SGX and TEE integration in blockchain. These resources cover topics such as:
+
+
+1. Introduction to SGX and TEE: Learn about the fundamentals of SGX and TEE technologies, their features, and how they can be leveraged in blockchain applications.
+2. SGX and TEE in Blockchain Architecture: Explore different architectural patterns and design considerations for integrating SGX and TEE into blockchain networks, ensuring secure and trusted execution of smart contracts and sensitive operations.
+3 . Development Tools and Libraries: Discover open-source libraries, frameworks, and development tools that facilitate the integration of SGX and TEE into blockchain applications. These resources can help you build secure and privacy-preserving decentralized applications.
+4. Use Cases and Applications: Explore real-world use cases and applications that demonstrate the benefits of SGX and TEE in blockchain, such as secure data sharing, confidential transactions, and privacy-preserving smart contracts.
 
 Trusted Execution Environments (TEEs) and SGX (Software Guard Extensions) plays a critical role in enhancing security by offering hardware-based memory encryption and isolation. SGX allows user-level code to allocate private regions of memory called enclaves, which are designed to be protected from processes running at higher privilege levels. This granular level of control and protection applies to other high-level processes running at the time, and even the operating system. By leveraging SGX, developers can enhance the security of their applications and protect sensitive code and data from unauthorized access.
 
