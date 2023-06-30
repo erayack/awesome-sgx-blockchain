@@ -1,4 +1,4 @@
-[![hackmd-github-sync-badge](https://hackmd.io/OTK1dtKORwSIfEYazin4qw/badge)](https://hackmd.io/OTK1dtKORwSIfEYazin4qw) [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![hackmd-github-sync-badge](https://hackmd.io/OTK1dtKORwSIfEYazin4qw/badge)](https://hackmd.io/OTK1dtKORwSIfEYazin4qw)
 
 ## Introduction
 Welcome to the "Awesome SGX and TEE in Blockchain Resources" repository! This repository is a curated collection of valuable resources related to Intel Software Guard Extensions (SGX) and Trusted Execution Environments (TEE) in the context of blockchain technology.
