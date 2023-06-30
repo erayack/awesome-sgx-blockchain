@@ -13,6 +13,7 @@ In this repository, you will find a wide range of resources, including research 
 
 1. Introduction to SGX and TEE: Learn about the fundamentals of SGX and TEE technologies, their features, and how they can be leveraged in blockchain applications.
 2. SGX and TEE in Blockchain Architecture: Explore different architectural patterns and design considerations for integrating SGX and TEE into blockchain networks, ensuring secure and trusted execution of smart contracts and sensitive operations.
+
 3 . Development Tools and Libraries: Discover open-source libraries, frameworks, and development tools that facilitate the integration of SGX and TEE into blockchain applications. These resources can help you build secure and privacy-preserving decentralized applications.
 4. Use Cases and Applications: Explore real-world use cases and applications that demonstrate the benefits of SGX and TEE in blockchain, such as secure data sharing, confidential transactions, and privacy-preserving smart contracts.
 
