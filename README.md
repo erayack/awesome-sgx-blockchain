@@ -1,3 +1,5 @@
+[![hackmd-github-sync-badge](https://hackmd.io/OTK1dtKORwSIfEYazin4qw/badge)](https://hackmd.io/OTK1dtKORwSIfEYazin4qw)
+
 ## Introduction
 Welcome to the "Awesome SGX and TEE in Blockchain Resources" repository! This repository is a curated collection of valuable resources related to Intel Software Guard Extensions (SGX) and Trusted Execution Environments (TEE) in the context of blockchain technology.
 SGX and TEE are technologies that provide secure execution environments for sensitive computations within a blockchain network. They enable the protection of confidential data and the execution of trusted code, enhancing the security and privacy of blockchain applications.
